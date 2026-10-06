@@ -13,7 +13,7 @@
 ---
 
 ### 💫 Обо мне
-<div align="center">
+<div align="center" wight="100%">
 <p> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,nodejs,git,github,figma,docker&perline=9" /> </p><table> <tr> <td valign="top" width="50%">
 
 <p align="center"> 
