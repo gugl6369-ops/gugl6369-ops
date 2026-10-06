@@ -16,17 +16,6 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,nodejs,git,github,figma,docker&perline=9" /> </p><table> <tr> <td valign="top" width="50%">
 
-```ts
-const developer = {
-  name: "<ТВОЁ_ИМЯ>",
-  role: "Frontend Developer",
-  stack: ["Vue 3", "Nuxt", "TypeScript", "JavaScript"],
-  tools: ["Vite", "Pinia", "Tailwind", "Vitest"],
-  focus: ["DX", "Performance", "Clean Architecture"],
-  currentlyLearning: ["Vue 3.5", "Nitro", "Rust"],
-  funFact: "Пишу код быстрее, чем пью кофе ☕"
-};
-
 
 
 ### Тут круто, чисто из-за меня ⬇️
