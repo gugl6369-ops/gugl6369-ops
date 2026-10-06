@@ -12,13 +12,14 @@
 
 ---
 
-### 💫 Обо мне
+<p align="center"> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,git,figma&perline=9" /> </p>
+
 <div align="center" wight="100%">
-<p align="center"> 
+<p align="center" wight="100%" > 
   <img wight="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugl6369-ops&layout=compact&langs_count=8&theme=vue-dark&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gugl6369-ops&theme=vue-dark&hide_border=true" /> 
 </p>
-
+</div>
 
 
 ### Тут круто, чисто из-за меня ⬇️
