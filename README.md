@@ -15,7 +15,7 @@
 ### 💫 Обо мне
 <div align="center" wight="100%">
 <p> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,nodejs,git,github,figma,docker&perline=9" /> </p><table> <tr> <td valign="top" width="50%">
-
+<p align="center"> <img src="https://raw.githubusercontent.com/gugl6369-ops/gugl6369-ops/output/github-contribution-grid-snake-dark.svg" /> </p>
 <p align="center"> 
   <img wight="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugl6369-ops&layout=compact&langs_count=8&theme=vue-dark&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gugl6369-ops&theme=vue-dark&hide_border=true" /> 
