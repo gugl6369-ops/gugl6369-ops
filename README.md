@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Vue.js • TypeScript • JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=600&lines=Vue.js;TypeScript;Building;+web+apps;Clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=600&lines=Vue.js;TypeScript;web+apps;Clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center" wight="100%" >
