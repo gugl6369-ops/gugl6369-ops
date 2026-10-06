@@ -17,7 +17,7 @@
 <p> <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,nodejs,git,github,figma,docker&perline=9" /> </p><table> <tr> <td valign="top" width="50%">
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugl6369-ops&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elfi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugl6369-ops&layout=compact&langs_count=8&theme=vue-dark&hide_border=true"/>
 </p>
 <p align="center"> 
