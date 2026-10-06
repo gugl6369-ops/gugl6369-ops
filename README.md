@@ -23,9 +23,6 @@
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gugl6369-ops&theme=vue-dark&hide_border=true" /> 
 </p>
-  <p align="center"> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gugl6369-ops&theme=vue&hide_border=true&area=true" /> 
-  </p>
 
 
 
