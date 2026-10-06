@@ -20,6 +20,7 @@
 
 ### Тут круто, чисто из-за меня ⬇️
 <div wight="100%">
+  
 ```geojson
 {
   "type": "FeatureCollection",
