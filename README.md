@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,vite,pinia,tailwind,sass,html,css,git,figma&perline=9" />
-  <img src="./Sci Fi Skate GIF by Yizr.gif" width="150px" />
+  <img src="./Sci.gif" width="150px" />
 </p>
 
 ---
